@@ -1,8 +1,14 @@
+import './css/main.css'
+
 const Main = () => {
   return(
-    <>
-      <small>Main goes here</small>
-    </>
+    <section className="main">
+      <div className="main-container">
+        <div className="main-wrapper">
+          
+        </div>
+      </div>
+    </section>
   )
 }
 

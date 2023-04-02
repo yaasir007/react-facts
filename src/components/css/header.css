@@ -1,0 +1,21 @@
+.nav {
+  height: 10vh;
+  background-color: #21222A;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-inline: 4rem;
+  padding: .5rem;
+}
+
+.nav-logo {
+  width: 80px;
+}
+
+.nav-wrapper > h5 {
+  color: #DEEBF8;
+  font-size: 1.5rem;
+}
